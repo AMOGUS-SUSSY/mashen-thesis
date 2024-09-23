@@ -1,0 +1,6 @@
+[submodule "mashen-sentencepiece"]
+	path = mashen-sentencepiece
+	url = git@github.com:AMOGUS-SUSSY/mashen-sentencepiece.git
+[submodule "mashen-kitchen"]
+	path = mashen-kitchen
+	url = git@github.com:AMOGUS-SUSSY/mashen-kitchen.git
